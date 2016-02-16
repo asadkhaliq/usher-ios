@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BF6590AE-59E4-4432-9EEE-4881F7D532F7</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8FAD664F4A8E945E618739F00FE41F372E440819</key>
+		<string>https://github.com/magic890/tripadvisor-scraper.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8FAD664F4A8E945E618739F00FE41F372E440819</key>
+		<string>tripadvisor-scraper/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/magic890/tripadvisor-scraper.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8FAD664F4A8E945E618739F00FE41F372E440819</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8FAD664F4A8E945E618739F00FE41F372E440819</string>
+			<key>IDESourceControlWCCName</key>
+			<string>tripadvisor-scraper</string>
+		</dict>
+	</array>
+</dict>
+</plist>
